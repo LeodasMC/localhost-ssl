@@ -4,7 +4,7 @@ In this repo you will come to know how to install SSL certificates in your local
 # Create a folder for the certificates
 ```mkdir -p /etc/certs```
 
-# Get into the folder
+# Enter into the folder
 ```cd /etc/certs```
 
 # OpenSSL Seld-Signed Certificate Command:
