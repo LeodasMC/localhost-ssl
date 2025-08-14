@@ -1,4 +1,4 @@
-# Get-SSL-at-localhost
+# Get SSL for localhost
 In this repo you will come to know how to install SSL certificates in your localhost.
 
 # Create a folder for the certificates
